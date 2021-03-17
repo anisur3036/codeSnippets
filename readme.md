@@ -17,3 +17,4 @@ This is a code snippet, here have a lot of programming code snippet like __JavaS
 - [C#](csharp/readme.md)
 - [HTML & CSS](htmlcss/readme.md)
 - [Visual Basic](visualbasic/readme.md)
+- [Unix/linux](./bash/readme.md)
