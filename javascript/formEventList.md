@@ -25,4 +25,4 @@
 |onSelect|	text within the textarea field is selected|
 |onSubmit|	A form is submitted|
 
-[<svg width="12" height="12" color="orange" fill="none" stroke="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"></path></svg> Back](./readme.md)
+[⬅ Back](./readme.md)
