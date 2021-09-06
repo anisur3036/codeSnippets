@@ -1,4 +1,4 @@
-# Instal diferent version of PHP on Ubuntu
+# Instal different version of PHP on Ubuntu
 
 ### Step 1 – Add PHP PPA
 
@@ -97,5 +97,4 @@ There are 4 choices for the alternative php (providing /usr/bin/php).
 
 Press to keep the current choice[*], or type selection number: 4
 
-[Back to home](../readme.md)
-[Back to Ubuntu](./readme.md)
+[Back to home](../readme.md) | [Back to Ubuntu](./readme.md)
