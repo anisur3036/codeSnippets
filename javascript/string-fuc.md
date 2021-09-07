@@ -1,6 +1,6 @@
 # JavaScript String Functions
 
-```bash
+```js
 	charAt(index) // Returns the character at the specified index (position)
 	charCodeAt(index) // Returns the Unicode of the character at the specified index
 	concat(str1,[...]) // Joins two or more strings, and returns a new joined strings
